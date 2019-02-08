@@ -1,0 +1,10 @@
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\bin\Debug\KagitMakasTas.exe.config
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\bin\Debug\KagitMakasTas.exe
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\bin\Debug\KagitMakasTas.pdb
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.Form1.resources
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.Properties.Resources.resources
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.csproj.GenerateResource.cache
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.csproj.CoreCompileInputs.cache
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.exe
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.pdb
+C:\Users\Eyyub TEZCAN\source\repos\KagitMakasTas\KagitMakasTas\obj\Debug\KagitMakasTas.csprojAssemblyReference.cache
